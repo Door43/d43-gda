@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gda:home|Door43 (gda)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gda|d43-gda repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gda/archive/master.zip|d43-gda.zip]]
+
+**Recent Changes**
+{{changes>ns = gda}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gda|Ethnologue data]]
+
